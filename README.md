@@ -25,3 +25,8 @@ deactivate
 ``` python
 pip install -r requirements.txt
 ```
+* create super user to access django backend
+
+```python
+python manage.py createsuperuser
+```
