@@ -30,3 +30,9 @@ pip install -r requirements.txt
 ```python
 python manage.py createsuperuser
 ```
+
+``` python
+ python manage.py makemigration
+ python manage.py migrate
+
+```
